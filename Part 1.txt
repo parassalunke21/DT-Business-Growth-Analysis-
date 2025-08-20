@@ -1,0 +1,32 @@
+Prompt 1
+
+Act as a sales copywriter for a B2B tech outreach campaign. Write a short, 
+personalized email to this CTO using AIDCA:  
+[Attention: Mention a recent trend in D2C tech or an upcoming peak-season 
+challenge…]  
+[Interest: Explain a specific solution benefit, referencing our platform’s 
+scalability…]  
+[Desire: Convey urgency with a time-bound incentive or competitive 
+advantage…]  
+[Conviction: Include a credibility element (e.g., quote from an industry 
+expert or a client success story)…]  
+[Action: Provide a clear next step (e.g., book a demo link).]  
+Incorporate Cialdini principles of **Authority** (e.g., expert quote) and 
+**Scarcity** (e.g., “limited spots”).  
+Avoid sounding generic or overselling features. 
+
+Prompt 2 
+
+ Act as a B2B marketing copywriter. Write a concise outbound email to the 
+Pharma COO using AIDCA:  
+[Attention: Cite a recent regulatory change or industry pain (e.g., new 
+compliance deadline)…]  
+[Interest: Explain our solution’s benefit (e.g., automates compliance 
+checks)…]  
+[Desire: Showcase impact (e.g., “save 20% on QA costs”).]  
+[Conviction: Add credibility (e.g., “Used by X company, ROI of Y%”).]  
+[Action: Strong call-to-action (e.g., “Let’s discuss a pilot”).]  
+Include **Reciprocity** by offering a free compliance audit and **Social 
+Proof** by referencing a case study.  
+Avoid a one-size-fits-all tone or irrelevant details. 
+
