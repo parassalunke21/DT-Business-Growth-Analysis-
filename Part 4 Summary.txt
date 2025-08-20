@@ -1,0 +1,5 @@
+Using targeted prompts with AIDCA and Cialdini’s principles turned our campaign from generic pitches into sharp, personalized messages. Each email now hooks the reader (Attention), sparks their curiosity with tailored benefits (Interest), builds urgency (Desire), earns trust with proof points (Conviction), and drives action with a clear next step (Action).  
+
+By guiding the AI with specific instructions, we’ve shifted from vague copy to messaging that hits the mark for each audience’s needs. As a Growth Analyst, I take a hands-on, data-driven approach. Dashboards aren’t just numbers—they’re signals for action. When I spot a gap, like high email opens but few meetings booked, I dig into possible causes (maybe the call-to-action isn’t compelling) and craft new prompts to test fresh wording fast.  
+
+This cycle—measure, hypothesize, tweak, review—keeps our strategy grounded in real-time feedback. In practice, I adjust the message based on what the data shows, whether it’s adding stronger social proof, dialing up urgency, or sharpening our audience focus to drive consistent growth.
